@@ -62,7 +62,7 @@ Contributions are welcome! Feel free to submit suggestions, corrections, or enha
 
 ## Authors
 
-- Danilo Bruno da Silva  ([GitHub](//github.com/danilobsilv)) - ([Linkedin](//https://www.linkedin.com/in/danilo-bruno-da-silva-30b917225/)): Programmed and designed the script.
+- Danilo Bruno da Silva  ([GitHub](https://github.com/danilobsilv)) - ([Linkedin](https://www.linkedin.com/in/danilo-bruno-da-silva-30b917225/)): Programmed and designed the script.
 
 
 ## License
