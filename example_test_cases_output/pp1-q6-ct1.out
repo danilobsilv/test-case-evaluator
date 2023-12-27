@@ -1,0 +1,6 @@
+num_vertices: 4
+num_edges: 7
+0 1 1 1
+1 0 1 0
+0 0 0 0
+1 0 1 0

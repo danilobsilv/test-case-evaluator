@@ -1,0 +1,12 @@
+num_vertices: 10
+num_edges: 15
+inf inf inf inf inf inf inf 8.3 3.3 4.6
+inf inf inf 5.6 3.6 inf inf inf inf inf
+inf inf inf inf inf 7.7 inf inf inf inf
+inf 5.6 inf inf inf 6.2 inf inf inf inf
+inf 3.6 inf inf inf 3.5 1.4 inf 3.3 9.6
+inf inf 7.7 6.2 3.5 inf 2 3 inf inf
+inf inf inf inf 1.4 2 inf inf 6.3 4.6
+8.3 inf inf inf inf 3 inf inf inf inf
+3.3 inf inf inf 3.3 inf 6.3 inf inf inf
+4.6 inf inf inf 9.6 inf 4.6 inf inf inf
