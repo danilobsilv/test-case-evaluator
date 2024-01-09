@@ -67,4 +67,4 @@ Contributions are welcome! Feel free to submit suggestions, corrections, or enha
 
 ## License
 
-This project is licensed under the [XYZ License](license link).
+This project is licensed under the [MIT License].
